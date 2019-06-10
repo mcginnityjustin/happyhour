@@ -1,0 +1,15 @@
+body {
+  background: white;
+  height: 100%;
+}
+.happyhr-navbar {
+  background: white;
+  height: 6%;
+}
+.nopadding.container {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.grayout {
+  color: lightgray;
+}
